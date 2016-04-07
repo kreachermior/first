@@ -1,0 +1,29 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arvo', serif;
+  font-size: 16px;
+		text-align:center
+}
+.main{
+	background: url(http://s23.postimg.org/fp3x18h7r/images.jpg?noCache=1460031616);
+ background-repeat:no-repeat;
+ background-position:center;
+ background-attachment: fixed;
+ background-size:100% 100%;
+}
+ ul li{
+	display:inline;
+}
+h2,p,a{
+	text-align:center
+}
+img{
+	margin-left:auto;
+}
+table{
+	float:right;
+}
+.footer{
+	margin-top:30px;
+}
